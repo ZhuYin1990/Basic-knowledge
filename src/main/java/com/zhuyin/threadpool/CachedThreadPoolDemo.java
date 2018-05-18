@@ -10,7 +10,7 @@ import java.util.concurrent.Future;
  * @author Administrator
  *
  */
-public class CachedThreadPoolDemo {
+public class CachedThreadPoolDemo {   
 	
 	public static void main(String[] args) throws InterruptedException, ExecutionException {
 		
