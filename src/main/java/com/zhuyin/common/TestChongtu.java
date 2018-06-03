@@ -20,6 +20,7 @@ public class TestChongtu {
 
 		System.out.println("程序猿A又加了代码");
 
+		System.out.println("程序猿B也加了代码");
 	}
 	
 }
