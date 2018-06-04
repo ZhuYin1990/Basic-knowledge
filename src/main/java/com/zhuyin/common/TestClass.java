@@ -9,6 +9,8 @@ public class TestClass {
 		System.out.println("继续测试");
 		
 		System.out.println("一直在测试");
+		
+		System.out.println("测啊测，快出结果了");
 	}
 	
 	
